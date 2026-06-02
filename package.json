@@ -1,0 +1,13 @@
+{
+  "name": "vlu-qe-walking-skeleton",
+  "version": "1.0.0",
+  "description": "A simple walking skeleton for CI/CD",
+  "main": "auth.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
